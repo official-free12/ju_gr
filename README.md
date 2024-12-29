@@ -1,0 +1,6 @@
+# 聚合通国富通三方支付运营级系统源码全开源+代付模式+代理商模式，内附安装教程
+
+企业认证，钻石级店铺，信誉至上<br>聚合通国富通三方支付运营级系统源码全开源+代付模式+代理商模式，内附安装教程<br>购买源码声明：<br>1、安装服务仅对网站源码安装，不进行设置，网站环境需买家自行配置好。<br>2、安装网站，需要买家提供服务器账号以及域名，不接受QQ远程操作。<br>3、收费服务：服务器环境配置、系统安装、网站调试、程序定制、二次开发等。<br>4、购买后不接受安装服务，不接受QQ远程操作。<br>5、店主平时较忙，请大家尽量在有能力自行安装的情况下购买。<br>6、请对源码有一定了解再购买，完全不懂的小白请不要购买。<br>7、源码属于可复制性产品，购买源码发货后，买家不得以任何理由退款。<br>8、本店源码均由店主亲测后发布，都是完整可用源码。<br>9、演示网站大部分未做美化或特别设置，确保与您所购源码的一致性。<br>10、若您购买本商品，将视为您已知晓并完全同意以上条款！<br>售后客服QQ：1822477727<br>聚合通国富通三方支付运营级系统源码全开源+代付模式+代理商模式，内附安装教程<br>example.com、扫码支付，自动运维等特点。只要推广出去，无需过多人工干预。<br>example.com，提现手续费、支付费率等功能。<br>example.com。<br>example.com，代理制度完善<br>example.com，通用网关以及网银列表，可冻结异常订单<br>环境：Centos+example.com+example.com+Apache<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/298Cu" style="color: red;">https://mega-file.org/298Cu</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
